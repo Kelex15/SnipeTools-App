@@ -30,6 +30,7 @@ Current features supported:
 - [4] Limit-Buy.
 - [5] Buy LP.
 - [6] Buy Trading Enabled.
+- [7] Telegram Channel/Group Buy.
 #### Sell Mode
 - [1] Selling (Selected pairs)
 - [2] Multi blockchain support.
