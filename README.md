@@ -45,7 +45,7 @@ Current features supported:
 - Binance Smart Chain
 - Ethereum
 - Cronos
-The bot is customized properly so it would be easy to add more chains in the future depending on what the community wants.
+- The bot is customized properly so it would be easy to add more chains in the future depending on what the community wants.
 
 ## Getting Started
 ### Requirements
@@ -58,17 +58,19 @@ The bot is customized properly so it would be easy to add more chains in the fut
 			<li><a href="https://www.quicknode.com/">Quicknode (paid)</a></li>
 			<li><a href="https://www.moralis.io/">Moralis (free)</a></li>
 		</ul>
-    A moralis api key, create a free moralis account and get the api key
-    A bscscan api key, create a free bscscan account and get the api key
-    A etherscan api key, create a free etherscan account and get the api key
-    A cronoscan api key, create a free cronoscan account and get the api key
 	</li>
+	<li>A moralis api key, create a free moralis account and get the api key</li>
+	<li>A bscscan api key, create a free bscscan account and get the api key</li>
+	<li>A etherscan api key, create a free etherscan account and get the api key</li>
+	<li>A cronoscan api key, create a free cronoscan account and get the api key</li>
 </ul>
 
 ### Configuration
-####Add an account (add address and private key)
-####Add api keys
-####Add node endpoints
+<ul>
+	<li>Add an account (add address and private key)</li>
+	<li>Add api keys</li>
+	<li>Add node endpoints</li>
+</ul>
 
 ### Contact
 <ul>
