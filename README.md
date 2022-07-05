@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://ibb.co/3Bn5m2Z">
+    <img src="https://i.imgur.com/jQRwTjZ.jpg">
     <h3 align="center">SnipeTools-App</h3>
     <p align="center">
         Simple yet fast and efficient sniper-bot.
