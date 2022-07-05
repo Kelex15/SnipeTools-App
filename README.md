@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/jQRwTjZ.jpg">
+    <img src="https://i.imgur.com/YaSmfqY.jpg">
     <h3 align="center">SnipeTools-App</h3>
     <p align="center">
         Simple yet fast and efficient sniper-bot.
@@ -13,13 +13,10 @@ To launch the bot Install the SnipeTools-Product.exe file. Click open run file t
 ### Features
 
 Current features supported by the **FREE** version:
-<img src="https://imgur.com/h8Aohyo">
-<img src="https://imgur.com/vaV4pWU">
-<img src="https://imgur.com/VGdB3ke">
-<img src="https://imgur.com/Q2dgpZW">
-<img src="https://imgur.com/mnY8EM7">
-<img src="https://imgur.com/mnY8EM7">
-<img src="https://imgur.com/S7v3BFC">
+<img src="https://i.imgur.com/h8Aohyo.png">
+<img src="https://i.imgur.com/vaV4pWU.png">
+<img src="https://i.imgur.com/VGdB3ke.png">
+<img src="https://i.imgur.com/S7v3BFC.png">
 #### Presale Mode
 - [1] Pinksale Presale Snipe.
 - [2] Dx-Sale Presale Snipe.
