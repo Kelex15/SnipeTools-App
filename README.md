@@ -30,10 +30,10 @@ Current features supported:
 - [5] Buy LP.
 - [6] Buy Trading Enabled.
 #### Sell Mode
-- [1] Buying (ALL pairs)
+- [1] Selling (Selected pairs)
 - [2] Multi blockchain support.
 - [3] Multi-Wallet Snipe. 
-- [4] Limit-Buy.
+- [4] Limit-Sell.
 #### Token Generator Mode
 - [1] Generate Token and Deploy.
 - [2] Add Liquidity.
