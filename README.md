@@ -1,0 +1,80 @@
+<div align="center">
+    <img src="https://imgur.com/a/HqNonKb">
+    <h3 align="center">SnipeTools-App</h3>
+    <p align="center">
+        Simple yet fast and efficient sniper-bot.
+        <hr>
+    </p>
+</div>
+
+### Usage
+To launch the bot Install the SnipeTools-Product.exe file. Click open run file to run the bot.
+
+### Features
+
+Current features supported by the **FREE** version:
+<a href="https://imgur.com/h8Aohyo"></a>
+<a href="https://imgur.com/vaV4pWU"></a>
+<a href="https://imgur.com/VGdB3ke"></a>
+<a href="https://imgur.com/Q2dgpZW"></a>
+<a href="https://imgur.com/mnY8EM7"></a>
+<a href="https://imgur.com/mnY8EM7"></a>
+<a href="https://imgur.com/S7v3BFC"></a>
+#### Presale Mode
+- [1] Pinksale Presale Snipe.
+- [2] Dx-Sale Presale Snipe.
+- [3] Unicrypt Presale Snipe.
+- [4] Multi-Wallet Snipe.
+#### Buy Mode
+- [1] Buying (Selected pairs).
+- [2] Multi blockchain support.
+- [3] Multi-Wallet Snipe. 
+- [4] Limit-Buy.
+- [5] Buy LP.
+- [6] Buy Trading Enabled.
+#### Sell Mode
+- [1] Buying (ALL pairs)
+- [2] Multi blockchain support.
+- [3] Multi-Wallet Snipe. 
+- [4] Limit-Buy.
+#### Token Generator Mode
+- [1] Generate Token and Deploy.
+- [2] Add Liquidity.
+- [3] Remove Liquidity.
+
+
+### Supported chains
+- Binance Smart Chain
+- Ethereum
+- Cronos
+The bot is customized properly so it would be easy to add more chains in the future depending on what the community wants.
+
+## Getting Started
+### Requirements
+<ul>
+    <li>Windows 10 / Ubuntu / Mac OS</li>
+	<li>A <b>decent</b> internet connection.</li>
+	<li>
+		A <b>decent</b> BSC node, preferably paid, but you may also use free ones.
+		<ul>
+			<li><a href="https://www.quicknode.com/">Quicknode (paid)</a></li>
+			<li><a href="https://www.moralis.io/">Moralis (free)</a></li>
+		</ul>
+    A moralis api key, create a free moralis account and get the api key
+    A bscscan api key, create a free bscscan account and get the api key
+    A etherscan api key, create a free etherscan account and get the api key
+    A cronoscan api key, create a free cronoscan account and get the api key
+	</li>
+</ul>
+
+### Configuration
+Add an account (add address and private key)
+Add api keys
+add node endpoints
+
+### Contact
+<ul>
+	<li>Discord: Kelex_x#2580</li>
+	<li>Telegram: @gemhunter_x</li>
+  <li>Community: <a href="https://t.me/snipetoolsgroup">SnipeToolsGroup</a></li>
+</ul>
