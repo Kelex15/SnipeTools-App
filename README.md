@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://imgur.com/a/HqNonKb">
+    <img src="https://imgur.com/a/HqNonKb.png">
     <h3 align="center">SnipeTools-App</h3>
     <p align="center">
         Simple yet fast and efficient sniper-bot.
@@ -68,9 +68,9 @@ The bot is customized properly so it would be easy to add more chains in the fut
 </ul>
 
 ### Configuration
-Add an account (add address and private key)
-Add api keys
-add node endpoints
+####Add an account (add address and private key)
+####Add api keys
+####Add node endpoints
 
 ### Contact
 <ul>
