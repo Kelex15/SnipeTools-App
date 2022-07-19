@@ -77,6 +77,6 @@ Current features supported:
 ### Contact
 <ul>
 	<li>Discord: Kelex_x#2580</li>
-	<li>Telegram: @gemhunter_x</li>
+	<li>Telegram: @kelex_x</li>
   <li>Community: <a href="https://t.me/snipetoolsgroup">SnipeToolsGroup</a></li>
 </ul>
