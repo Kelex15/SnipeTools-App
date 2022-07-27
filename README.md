@@ -19,6 +19,8 @@ Current features supported:
 <img src="https://i.imgur.com/S7v3BFC.png">
 <img src="https://i.imgur.com/7XrJ6uH.png">
 <img src="https://i.imgur.com/65F8hmq.png">
+<img src="https://imgur.com/IKpcvLD">
+<img src="https://imgur.com/2ajLqby">
 #### Presale Mode
 - [1] Pinksale Presale Snipe.
 - [2] Dx-Sale Presale Snipe.
@@ -32,6 +34,7 @@ Current features supported:
 - [5] Buy LP.
 - [6] Buy Trading Enabled.
 - [7] Telegram Channel/Group Buy.
+- [6] Take Profit.
 #### Sell Mode
 - [1] Selling (Selected pairs)
 - [2] Multi blockchain support.
