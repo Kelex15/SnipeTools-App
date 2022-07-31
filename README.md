@@ -67,6 +67,7 @@ Current features supported:
 	<li>A <a href="https://bscscan.com/apis">Bscscan</a> api key, create a free bscscan account and get the api key (Optional - Only Provide if you are trading on BinanceSmartChain)</li>
 	<li>A <a href="https://etherscan.com/apis">Etherscan</a>  api key, create a free etherscan account and get the api key (Optional - Only Provide if you are trading on Ethereum Chain)</li>
 	<li>A <a href="https://cronoscan.com/apis">Cronoscan</a>  api key, create a free cronoscan account and get the api key (Optional - Only Provide if you are trading on Cronos Chain)</li>
+	<li>A <a href="https://my.telegram.org/">Telegram</a>  api key and Hash, create a new project and get the api key and hash (Optional - Only Provide if you are using tg scrape mode)</li>
 </ul>
 
 ### Configuration
