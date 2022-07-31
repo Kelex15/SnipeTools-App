@@ -75,6 +75,7 @@ Current features supported:
 	<li>Add an account (add address and private key)</li>
 	<li>Add api keys</li>
 	<li>Add node endpoints</li>
+	<li>Add telegram api key, api hash, phone num and password (if your account has one)</li>
 </ul>
 
 ### Contact
