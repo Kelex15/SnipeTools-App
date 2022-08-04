@@ -61,7 +61,7 @@ Current features supported:
 ## Getting Started
 ### Requirements
 <ul>
-    <li>Windows 10 / Ubuntu / Mac OS</li>
+    <li>Windows 10 / Ubuntu</li>
 	<li>A <b>decent</b> internet connection.</li>
 	<li>
 		A <b>decent</b> BSC node, preferably paid, but you may also use free ones.
