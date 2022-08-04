@@ -25,7 +25,12 @@ Current features supported:
 - [1] Pinksale Presale Snipe.
 - [2] Dx-Sale Presale Snipe.
 - [3] Unicrypt Presale Snipe.
-- [4] Multi-Wallet Snipe.
+- [4] Gempad Presale Snipe.
+- [5] Cookie Sale Presale Snipe.
+- [6] Sphynx Pad Presale Snipe.
+- [7] Ape Sale Presale Snipe.
+- [8] Claim Presale
+- [9] Multi-Wallet Snipe.
 #### Buy Mode
 - [1] Buying (Selected pairs).
 - [2] Multi blockchain support.
@@ -34,7 +39,8 @@ Current features supported:
 - [5] Buy LP.
 - [6] Buy Trading Enabled.
 - [7] Telegram Channel/Group Buy.
-- [6] Take Profit.
+- [8] Take Profit.
+- [9] Stop Loss
 #### Sell Mode
 - [1] Selling (Selected pairs)
 - [2] Multi blockchain support.
