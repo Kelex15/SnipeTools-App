@@ -25,7 +25,12 @@ Current features supported:
 - [1] Pinksale Presale Snipe.
 - [2] Dx-Sale Presale Snipe.
 - [3] Unicrypt Presale Snipe.
-- [4] Multi-Wallet Snipe.
+- [4] Gempad Presale Snipe.
+- [5] Cookie Sale Presale Snipe.
+- [6] Sphynx Pad Presale Snipe.
+- [7] Ape Sale Presale Snipe.
+- [8] Claim Presale
+- [9] Multi-Wallet Snipe.
 #### Buy Mode
 - [1] Buying (Selected pairs).
 - [2] Multi blockchain support.
@@ -34,7 +39,8 @@ Current features supported:
 - [5] Buy LP.
 - [6] Buy Trading Enabled.
 - [7] Telegram Channel/Group Buy.
-- [6] Take Profit.
+- [8] Take Profit.
+- [9] Stop Loss
 #### Sell Mode
 - [1] Selling (Selected pairs)
 - [2] Multi blockchain support.
@@ -55,19 +61,19 @@ Current features supported:
 ## Getting Started
 ### Requirements
 <ul>
-    <li>Windows 10 / Ubuntu / Mac OS</li>
+    <li>Windows 10 / Ubuntu</li>
 	<li>A <b>decent</b> internet connection.</li>
 	<li>
 		A <b>decent</b> BSC node, preferably paid, but you may also use free ones.
 		<ul>
 			<li><a href="https://www.quicknode.com/">Quicknode (paid)</a></li>
-			<li><a href="https://www.moralis.io/">Moralis (free)</a></li>
 		</ul>
 	</li>
-	<li>A moralis api key, create a free moralis account and get the api key</li>
-	<li>A bscscan api key, create a free bscscan account and get the api key</li>
-	<li>A etherscan api key, create a free etherscan account and get the api key</li>
-	<li>A cronoscan api key, create a free cronoscan account and get the api key</li>
+	<li>A <a href="https://moralis.io/pricing/">Moralis</a> api key, create a free moralis account and get the api key (Compulsory)</li>
+	<li>A <a href="https://bscscan.com/apis">Bscscan</a> api key, create a free bscscan account and get the api key (Optional - Only Provide if you are trading on BinanceSmartChain)</li>
+	<li>A <a href="https://etherscan.com/apis">Etherscan</a>  api key, create a free etherscan account and get the api key (Optional - Only Provide if you are trading on Ethereum Chain)</li>
+	<li>A <a href="https://cronoscan.com/apis">Cronoscan</a>  api key, create a free cronoscan account and get the api key (Optional - Only Provide if you are trading on Cronos Chain)</li>
+	<li>A <a href="https://my.telegram.org/">Telegram</a>  api key and Hash, create a new project and get the api key and hash (Optional - Only Provide if you are using tg scrape mode)</li>
 </ul>
 
 ### Configuration
@@ -75,6 +81,7 @@ Current features supported:
 	<li>Add an account (add address and private key)</li>
 	<li>Add api keys</li>
 	<li>Add node endpoints</li>
+	<li>Add telegram api key, api hash, phone num and password (if your account has one)</li>
 </ul>
 
 ### Contact
