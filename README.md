@@ -27,7 +27,7 @@ Current features supported:
 - [5] Cookie Sale Presale Snipe.
 - [6] Sphynx Pad Presale Snipe.
 - [7] Ape Sale Presale Snipe.
-- [8] Claim Presale
+- [8] AutoClaim Presale
 - [9] Multi-Wallet Snipe.
 #### Buy Mode
 - [1] Buying (Selected pairs).
