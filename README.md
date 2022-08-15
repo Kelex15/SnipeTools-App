@@ -13,12 +13,11 @@ To launch the bot Install the SnipeTools-Product.exe file. Click open run file t
 ### Features
 
 Current features supported:
-<img src="https://i.imgur.com/MVt3ACg.png">
-<img src="https://i.imgur.com/8rlx8fa.png">
-<img src="https://i.imgur.com/VGdB3ke.png">
-<img src="https://i.imgur.com/S7v3BFC.png">
-<img src="https://i.imgur.com/65F8hmq.png">
-<img src="https://i.imgur.com/IKpcvLD.png">
+<img src="https://i.imgur.com/cfW0RuT.png">
+<img src="https://i.imgur.com/EBXFEGw.png">
+<img src="https://i.imgur.com/t3nqfSA.png">
+<img src="https://i.imgur.com/CiNEalx.png">
+<img src="https://i.imgur.com/YeZhJ5Q.png">
 <img src="https://i.imgur.com/2ajLqby.png">
 #### Presale Mode
 - [1] Pinksale Presale Snipe.
