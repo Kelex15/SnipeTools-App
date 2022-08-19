@@ -13,13 +13,11 @@ To launch the bot Install the SnipeTools-Product.exe file. Click open run file t
 ### Features
 
 Current features supported:
-<img src="https://i.imgur.com/h8Aohyo.png">
-<img src="https://i.imgur.com/vaV4pWU.png">
-<img src="https://i.imgur.com/VGdB3ke.png">
-<img src="https://i.imgur.com/S7v3BFC.png">
-<img src="https://i.imgur.com/7XrJ6uH.png">
-<img src="https://i.imgur.com/65F8hmq.png">
-<img src="https://i.imgur.com/IKpcvLD.png">
+<img src="https://i.imgur.com/cfW0RuT.png">
+<img src="https://i.imgur.com/EBXFEGw.png">
+<img src="https://i.imgur.com/t3nqfSA.png">
+<img src="https://i.imgur.com/CiNEalx.png">
+<img src="https://i.imgur.com/YeZhJ5Q.png">
 <img src="https://i.imgur.com/2ajLqby.png">
 #### Presale Mode
 - [1] Pinksale Presale Snipe.
@@ -29,7 +27,7 @@ Current features supported:
 - [5] Cookie Sale Presale Snipe.
 - [6] Sphynx Pad Presale Snipe.
 - [7] Ape Sale Presale Snipe.
-- [8] Claim Presale
+- [8] AutoClaim Presale
 - [9] Multi-Wallet Snipe.
 #### Buy Mode
 - [1] Buying (Selected pairs).
