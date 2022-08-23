@@ -54,6 +54,7 @@ Current features supported:
 - Binance Smart Chain
 - Ethereum
 - Cronos
+- Doge Chain
 - The bot is customized properly so it would be easy to add more chains in the future depending on what the community wants.
 
 ## Getting Started
