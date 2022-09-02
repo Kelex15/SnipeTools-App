@@ -68,14 +68,12 @@ Current features supported:
 			<li><a href="https://www.quicknode.com/">Quicknode (paid)</a></li>
 		</ul>
 	</li>
-	<li>A <a href="https://moralis.io/pricing/">Moralis</a> api key, create a free moralis account and get the api key (Compulsory)</li>
 	<li>A <a href="https://my.telegram.org/">Telegram</a>  api key and Hash, create a new project and get the api key and hash (Optional - Only Provide if you are using tg scrape mode)</li>
 </ul>
 
 ### Configuration
 <ul>
 	<li>Add an account (add address and private key)</li>
-	<li>Add api keys</li>
 	<li>Add node endpoints</li>
 	<li>Add telegram api key, api hash, phone num and password (if your account has one)</li>
 </ul>
