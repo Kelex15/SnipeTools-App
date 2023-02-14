@@ -13,7 +13,7 @@ To launch the bot Install the SnipeTools-Product.exe file. Click open run file t
 ### Features
 
 Current features supported:
-<img src="https://i.imgur.com/cfW0RuT.png">
+<img src="https://imgur.com/IugN8A2.png">
 <img src="https://i.imgur.com/EBXFEGw.png">
 <img src="https://i.imgur.com/t3nqfSA.png">
 <img src="https://i.imgur.com/CiNEalx.png">
