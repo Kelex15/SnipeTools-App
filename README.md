@@ -18,7 +18,7 @@ Current features supported:
 <img src="https://i.imgur.com/t3nqfSA.png">
 <img src="https://i.imgur.com/CiNEalx.png">
 <img src="https://i.imgur.com/YeZhJ5Q.png">
-<img src="https://i.imgur.com/2ajLqby.png">
+<img src="https://i.imgur.com/r7r93FS.png">
 #### Presale Mode
 - [1] Pinksale Presale Snipe.
 - [2] Dx-Sale Presale Snipe.
