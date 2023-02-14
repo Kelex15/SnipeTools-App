@@ -16,7 +16,7 @@ To launch the bot Install the SnipeTools-Product.exe file. Click open run file t
 <img src="https://imgur.com/hTWRSQH.png">
 <img src="https://imgur.com/wDRPv1P.png">
 <img src="https://i.imgur.com/r7r93FS.png">
-## SnipeTools-CLI
+### SnipeTools-CLI
 <img src="https://imgur.com/S2VOXGm.png">
 <img src="https://imgur.com/q2TzAzL.png">
 <img src="https://imgur.com/iHC2jdo.png">
