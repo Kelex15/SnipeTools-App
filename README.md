@@ -1,4 +1,4 @@
-<div align="center">
+no<div align="center">
     <img src="https://i.imgur.com/YaSmfqY.jpg">
     <h3 align="center">SnipeTools-App</h3>
     <p align="center">
@@ -90,5 +90,6 @@ Current features supported:
 <ul>
 	<li>Discord: Kelex_x#2580</li>
 	<li>Telegram: @kelex_x</li>
+  <li>Documentation: <a href="https://kelex062.gitbook.io/snipe-tools-user-manual/">Gitbook</a></li>
   <li>Community: <a href="https://t.me/snipetoolsgroup">SnipeToolsGroup</a></li>
 </ul>
