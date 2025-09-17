@@ -91,5 +91,6 @@ Current features supported:
 	<li>Discord: Kelex_x#2580</li>
 	<li>Telegram: @kelex_x</li>
   <li>Documentation: <a href="https://kelex062.gitbook.io/snipe-tools-user-manual/">Gitbook</a></li>
+  <li>Demo: <a href="https://youtu.be/75uILG3uE_g">Presale</a> <a href="https://youtu.be/NSu5UKBUEns">Buy/Sell</a></li>
   <li>Community: <a href="https://t.me/snipetoolsgroup">SnipeToolsGroup</a></li>
 </ul>
